@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C on Palak Jain</title>
-    <link>https://example.com/tags/c/</link>
+    <link>https://pjain062700.github.io/tags/c/</link>
     <description>Recent content in C on Palak Jain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 23 May 2020 10:58:08 -0400</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/c/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pjain062700.github.io/tags/c/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Petr Chat - academic</title>
-      <link>https://example.com/post/chapter-2/</link>
+      <link>https://pjain062700.github.io/post/chapter-2/</link>
       <pubDate>Sat, 23 May 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/post/chapter-2/</guid>
+      <guid>https://pjain062700.github.io/post/chapter-2/</guid>
       <description>Petr Chat is a multithreaded server written in C that supports chatroom messaging and management.
 I employed thread execution, thread safety (mutexes and semaphores), and sockets/network connections. I also leveraged solutions to Producer-Consumer problem to create a robust and reliable application.
 Note: Cannot link code to preserve academic integrity. Will have a demo up soon.</description>
@@ -24,10 +24,10 @@ Note: Cannot link code to preserve academic integrity. Will have a demo up soon.
     
     <item>
       <title>Simple Shell - academic</title>
-      <link>https://example.com/post/chapter-4/</link>
+      <link>https://pjain062700.github.io/post/chapter-4/</link>
       <pubDate>Sun, 12 Apr 2020 11:14:48 -0400</pubDate>
       
-      <guid>https://example.com/post/chapter-4/</guid>
+      <guid>https://pjain062700.github.io/post/chapter-4/</guid>
       <description>Simple shell emulates a basic linux shell the supports:
  simultaneous running of foreground and background processes I/O redirection, file access, and piping between programs.  Employed low-level system Unix/POSIX system calls and signal handling.
 Note: Cannot link code to preserve academic integrity. Will have a demo up soon.</description>

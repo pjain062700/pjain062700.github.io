@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Palak Jain</title>
-    <link>https://example.com/tags/</link>
+    <link>https://pjain062700.github.io/tags/</link>
     <description>Recent content in Tags on Palak Jain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 21 Jun 2020 10:58:08 -0400</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pjain062700.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>android</title>
-      <link>https://example.com/tags/android/</link>
+      <link>https://pjain062700.github.io/tags/android/</link>
       <pubDate>Sun, 21 Jun 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/tags/android/</guid>
+      <guid>https://pjain062700.github.io/tags/android/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kotlin</title>
-      <link>https://example.com/tags/kotlin/</link>
+      <link>https://pjain062700.github.io/tags/kotlin/</link>
       <pubDate>Sun, 21 Jun 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/tags/kotlin/</guid>
+      <guid>https://pjain062700.github.io/tags/kotlin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>personal</title>
-      <link>https://example.com/tags/personal/</link>
+      <link>https://pjain062700.github.io/tags/personal/</link>
       <pubDate>Sun, 21 Jun 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/tags/personal/</guid>
+      <guid>https://pjain062700.github.io/tags/personal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>academic</title>
-      <link>https://example.com/tags/academic/</link>
+      <link>https://pjain062700.github.io/tags/academic/</link>
       <pubDate>Sat, 23 May 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/tags/academic/</guid>
+      <guid>https://pjain062700.github.io/tags/academic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C</title>
-      <link>https://example.com/tags/c/</link>
+      <link>https://pjain062700.github.io/tags/c/</link>
       <pubDate>Sat, 23 May 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/tags/c/</guid>
+      <guid>https://pjain062700.github.io/tags/c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Java</title>
-      <link>https://example.com/tags/java/</link>
+      <link>https://pjain062700.github.io/tags/java/</link>
       <pubDate>Sat, 11 May 2019 11:13:32 -0400</pubDate>
       
-      <guid>https://example.com/tags/java/</guid>
+      <guid>https://pjain062700.github.io/tags/java/</guid>
       <description></description>
     </item>
     
