@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Palak Jain&#39;s Portfolio on Palak Jain</title>
+    <link>https://example.com/</link>
+    <description>Recent content in Palak Jain&#39;s Portfolio on Palak Jain</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Jun 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Whisp - personal</title>
+      <link>https://example.com/post/chapter-1/</link>
+      <pubDate>Sun, 21 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-1/</guid>
+      <description>Whisp is an android app written in Kotlin that simulates phone call between user and lost loved one to help with grieving process. It is inspired by Japan&amp;rsquo;s Phone of the Wind. The feeling of communication with a lost loved one can be a very beneficial and positive way of coping with loss. With deaths on the rise this year, I wanted to bring the magic and beauty of the Phone of the Wind to smartphones for greater accessibility.</description>
+    </item>
+    
+    <item>
+      <title>Petr Chat - academic</title>
+      <link>https://example.com/post/chapter-2/</link>
+      <pubDate>Sat, 23 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-2/</guid>
+      <description>Petr Chat is a multithreaded server written in C that supports chatroom messaging and management.
+I employed thread execution, thread safety (mutexes and semaphores), and sockets/network connections. I also leveraged solutions to Producer-Consumer problem to create a robust and reliable application.
+Note: Cannot link code to preserve academic integrity. Will have a demo up soon.</description>
+    </item>
+    
+    <item>
+      <title>Simple Shell - academic</title>
+      <link>https://example.com/post/chapter-4/</link>
+      <pubDate>Sun, 12 Apr 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-4/</guid>
+      <description>Simple shell emulates a basic linux shell the supports:
+ simultaneous running of foreground and background processes I/O redirection, file access, and piping between programs.  Employed low-level system Unix/POSIX system calls and signal handling.
+Note: Cannot link code to preserve academic integrity. Will have a demo up soon.</description>
+    </item>
+    
+    <item>
+      <title>TicTacToe - personal</title>
+      <link>https://example.com/post/chapter-3/</link>
+      <pubDate>Sat, 11 May 2019 11:13:32 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-3/</guid>
+      <description>This was my first go at a Java project after self-learning for a couple months!
+It was developed as a simple 2-player game of Tic Tac Toe on a text-based console. The code is broken up into 3 key classes: Main, Board, and Player.
+This project displays my competence in the basics of Java and object oriented programming.
+Check out the code on GitHub:
+https://github.com/pjain062700/TicTacToe</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://example.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/contact/</guid>
+      <description>These are my links! These are places you can contact me or check more of my projects out.
+   Platform URL     LinkedIn: https://www.linkedin.com/in/palak-jain-sb/   GitHub: https://github.com/pjain062700    </description>
+    </item>
+    
+  </channel>
+</rss>

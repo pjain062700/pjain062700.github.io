@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java on Palak Jain</title>
+    <link>https://example.com/tags/java/</link>
+    <description>Recent content in Java on Palak Jain</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 May 2019 11:13:32 -0400</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TicTacToe - personal</title>
+      <link>https://example.com/post/chapter-3/</link>
+      <pubDate>Sat, 11 May 2019 11:13:32 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-3/</guid>
+      <description>This was my first go at a Java project after self-learning for a couple months!
+It was developed as a simple 2-player game of Tic Tac Toe on a text-based console. The code is broken up into 3 key classes: Main, Board, and Player.
+This project displays my competence in the basics of Java and object oriented programming.
+Check out the code on GitHub:
+https://github.com/pjain062700/TicTacToe</description>
+    </item>
+    
+  </channel>
+</rss>

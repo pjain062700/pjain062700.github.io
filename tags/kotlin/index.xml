@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kotlin on Palak Jain</title>
+    <link>https://example.com/tags/kotlin/</link>
+    <description>Recent content in Kotlin on Palak Jain</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Jun 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/kotlin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Whisp - personal</title>
+      <link>https://example.com/post/chapter-1/</link>
+      <pubDate>Sun, 21 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-1/</guid>
+      <description>Whisp is an android app written in Kotlin that simulates phone call between user and lost loved one to help with grieving process. It is inspired by Japan&amp;rsquo;s Phone of the Wind. The feeling of communication with a lost loved one can be a very beneficial and positive way of coping with loss. With deaths on the rise this year, I wanted to bring the magic and beauty of the Phone of the Wind to smartphones for greater accessibility.</description>
+    </item>
+    
+  </channel>
+</rss>
